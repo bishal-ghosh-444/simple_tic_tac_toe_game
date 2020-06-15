@@ -1,4 +1,4 @@
-# simple_tic_tac_toe_game
+# simple_tic_tac_toe_game using python
 Simple Tic Tac Toe Game using python
 
 ##Steps##
